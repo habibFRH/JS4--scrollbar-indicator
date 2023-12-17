@@ -29,4 +29,9 @@ span:hover{
 
 .indicator{
     background-color: cornflowerblue;
+    height: 20px;
+    border-radius: 0px 20px 20px 0px;
+    width: 0%;
+    position: fixed;
+    top: 0px;
 }
